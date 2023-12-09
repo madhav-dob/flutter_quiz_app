@@ -379,7 +379,7 @@ class AboutUsScreen extends StatelessWidget {
       ),
       body: Center(
         child: Text(
-          'Information about the app and its developers will be here.',
+          'This app is developed by : \n Madhav Agarwal \n Roll No. 20221426 \n       22020570003\n BSc. Hons Computer Science',
           style: TextStyle(fontSize: 20),
         ),
       ),
